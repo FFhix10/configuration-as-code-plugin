@@ -437,7 +437,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>slack</artifactId>
-      <version>2.48</version>
+      <version>602.v0da_f7458945d</version>
       <scope>test</scope>
     </dependency>
 
