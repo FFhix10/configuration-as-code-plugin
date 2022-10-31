@@ -316,7 +316,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>simple-theme-plugin</artifactId>
-      <version>0.7</version>
+      <version>136.v23a_15f86c53d</version>
       <scope>test</scope>
     </dependency>
 
