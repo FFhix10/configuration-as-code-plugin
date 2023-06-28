@@ -479,7 +479,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>azure-keyvault</artifactId>
-      <version>123.v1aba71c2d365</version>
+      <version>188.vf46b_7fa_846a_1</version>
     </dependency>
 
     <dependency>
