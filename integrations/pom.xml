@@ -116,7 +116,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>ldap</artifactId>
-      <version>2.7</version>
+      <version>694.vc02a_69c9787f</version>
       <scope>test</scope>
     </dependency>
 
