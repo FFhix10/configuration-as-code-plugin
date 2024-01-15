@@ -593,7 +593,7 @@
       <dependency>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>aws-java-sdk</artifactId>
-        <version>1.12.101-300.vc09c7be9cb57</version>
+        <version>1.12.633-430.vf9a_e567a_244f</version>
       </dependency>
       <dependency>
         <groupId>commons-codec</groupId>
